@@ -13,9 +13,9 @@
 - ⚡ 早生贵子  
  012
 <br/>  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=414721&auto=1&height=66"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=638599728&bvid=BV1uY4y1k7G6&cid=586270675&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-<iframe style='width: 600px;height: 338px' frameborder='no' allowfullscreen mozallowfullscreen webkitallowfullscreen src='http://go.plvideo.cn/front/video/preview?vid=e77ee9e6ee83b53dd8e07e5cfe5aa4f1_e'></iframe>
+
 
 <iframe src="//player.bilibili.com/player.html?aid=640355912&bvid=BV1sY4y1W7qJ&cid=566687710&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
