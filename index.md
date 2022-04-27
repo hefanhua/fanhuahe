@@ -15,7 +15,8 @@
 
 <br/>  
 
-<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="600" height="338" id="polyvplayere77ee9e6ee83b53dd8e07e5cfe5aa4f1_e"><PARAM NAME=movie VALUE="//player.polyv.net/videos/player.swf" /><param name="allowscriptaccess" value="always" /><param name="wmode" value="Transparent" /><param name="flashvars" value="vid=e77ee9e6ee83b53dd8e07e5cfe5aa4f1_e" /><param name="allowFullScreen" value="true" /><EMBED src="//player.polyv.net/videos/player.swf" width="600" height="338"  TYPE="application/x-shockwave-flash" allowscriptaccess="always" wmode="Transparent" name="polyvplayere77ee9e6ee83b53dd8e07e5cfe5aa4f1_e" allowFullScreen="true" flashvars="vid=e77ee9e6ee83b53dd8e07e5cfe5aa4f1_e"></EMBED></OBJECT>
+<iframe style='width: 600px;height: 338px' frameborder='no' allowfullscreen mozallowfullscreen webkitallowfullscreen src='http://go.plvideo.cn/front/video/preview?vid=e77ee9e6ee83b53dd8e07e5cfe5aa4f1_e'></iframe>
+
 <iframe src="//player.bilibili.com/player.html?aid=640355912&bvid=BV1sY4y1W7qJ&cid=566687710&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### Frontend  
