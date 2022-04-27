@@ -15,7 +15,7 @@
 
 <br/>  
 
-<video controls height='100%' width='100%' src="https://bj29.cn-beijing.data.alicloudccp.com/4o2XVGVo%2F76117531%2F6268d810889c5cefdddd4e63b1e8f127273ef038%2F6268d8101bedd3527902401badf93edd948b20ac?di=bj29&dr=47897531&f=6268d8d04486df63007a426b8099caab4333e6c4&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%2720220427_%25E6%2597%25B7.mp4&u=fb6eba0234e64882815e1a8e449b65a8&x-oss-access-key-id=LTAIsE5mAn2F493Q&x-oss-additional-headers=referer&x-oss-expires=1651041030&x-oss-signature=O%2Bh5ioSPwfwlUtScgb5yuSEG8DNCJlS0kqL0IFqCydI%3D&x-oss-signature-version=OSS2"></video>
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="600" height="338" id="polyvplayere77ee9e6ee83b53dd8e07e5cfe5aa4f1_e"><PARAM NAME=movie VALUE="//player.polyv.net/videos/player.swf" /><param name="allowscriptaccess" value="always" /><param name="wmode" value="Transparent" /><param name="flashvars" value="vid=e77ee9e6ee83b53dd8e07e5cfe5aa4f1_e" /><param name="allowFullScreen" value="true" /><EMBED src="//player.polyv.net/videos/player.swf" width="600" height="338"  TYPE="application/x-shockwave-flash" allowscriptaccess="always" wmode="Transparent" name="polyvplayere77ee9e6ee83b53dd8e07e5cfe5aa4f1_e" allowFullScreen="true" flashvars="vid=e77ee9e6ee83b53dd8e07e5cfe5aa4f1_e"></EMBED></OBJECT>
 <iframe src="//player.bilibili.com/player.html?aid=640355912&bvid=BV1sY4y1W7qJ&cid=566687710&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### Frontend  
