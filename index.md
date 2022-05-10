@@ -18,3 +18,8 @@
 梯子下载链接：<https://s3.amazonaws.com/lantern/lantern-installer.apk>
         
         可以开始逛 PIXIV
+        
+        当然也可以进谷歌、INS、Twitter
+
+
+这里是PIXIV的安装包： VX滴滴 哈哈哈
